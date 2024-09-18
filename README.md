@@ -11,7 +11,7 @@ This project is a Discord chatbot developed in Node.js, featuring image processi
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/discord-chatbot.git
+git clone https://github.com/KevinKaiDao/ImageForge-DiscordBot.git
 ```
 
 2. Install dependencies:
